@@ -1,3 +1,5 @@
+* material: https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/
+
 # Power platform
 - power bi
 - pwoer apps
@@ -97,3 +99,22 @@ Event Driven flows
  - on a button press
 
 * use biz flow to simplify form entry
+
+
+# Power BI
+
+* self service, dashbaord to collaborate
+* desktop, mobile, service
+* Administration: pbi admin (web) is the maganement of pbi tenant, including config of governance policies, usage monitoring, provision of license etc.
+* share to web - require PBI Pro license
+
+
+
+# Concept to clarify
+
+* what is sharepoint 
+* power bi workspace vs ms teams vs sharepoint site
+* power bi workspace mgmt
+* CDS how-to
+* inhouse data to web?? VPN / vnet?
+
